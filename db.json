@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appoinment",
+      "day": "August 20 at 3:00 PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "August 24 at 2:00 PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "August  30 at 1:00 PM",
+      "reminder": false
+    },
+    {
+      "text": "prueba",
+      "day": "2021-08-05",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
